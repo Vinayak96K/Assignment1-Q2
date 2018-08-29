@@ -1,0 +1,16 @@
+#include"Myheader.h"
+
+/////////////////////////////////////////////////////////////////////////////////////
+//  Function Name: Display
+// Description: Print 5 times marvellous on screen
+//  Author: Vinayak Maherndra Patil
+////////////////////////////////////////////////////////////////////////////////////
+
+void display()
+{
+    int i=0;
+    for(i=1;i<=5;i++)
+    {
+        printf("Marvellous\t");
+    }
+}
